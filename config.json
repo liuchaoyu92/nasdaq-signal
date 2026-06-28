@@ -1,0 +1,5 @@
+{
+  "total_capital": 100000,
+  "current_invested": 0,
+  "note": "把 current_invested 改成你实际投入的金额（人民币），保存后页面自动更新"
+}
