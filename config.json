@@ -1,5 +1,12 @@
 {
   "total_capital": 100000,
-  "current_invested": 0,
-  "note": "把 current_invested 改成你实际投入的金额（人民币），保存后页面自动更新"
+  "current_invested": 1224,
+  "max_single_buy": 500,
+  "last_operation": {
+    "type": "buy",
+    "amount": 1224,
+    "date": "2026-06-28",
+    "note": "首次建仓"
+  },
+  "note": "current_invested 填当前持仓总金额。每次操作后同步更新 last_operation：type 填 buy 或 sell，amount 填本次操作金额（正数），date 填操作日期"
 }
